@@ -1,4 +1,4 @@
-//convert the input number into the letters
+//convert the input number into the letters.
 #include<iostream>
 #include<string>
 using namespace std;
